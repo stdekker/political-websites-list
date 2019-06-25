@@ -44,4 +44,15 @@
 - www.sinnfein.ie
 - www.snp.org
 - www.thebrexitparty.org
-
+# Germany
+- www.afd.de
+- www.cdu.de
+- www.csu.de
+- www.dieblauepartei.de
+- www.fdp.de
+- www.gruene.at
+- www.lkr.de
+- www.npd.de
+- www.oedp.de
+- www.piratenpartei.de
+- www.spd.de
