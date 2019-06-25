@@ -44,7 +44,7 @@
 - www.sinnfein.ie
 - www.snp.org
 - www.thebrexitparty.org
-# Germany
+## Germany
 - www.afd.de
 - www.cdu.de
 - www.csu.de
@@ -56,3 +56,13 @@
 - www.oedp.de
 - www.piratenpartei.de
 - www.spd.de
+## France
+- www.en-marche.fr
+- www.lafranceinsoumise.fr
+- www.parti-socialiste.fr
+- www.pcf.fr
+- www.rassemblementnational.fr
+- www.republicains.fr
+
+# Movements
+www.diem25.org
