@@ -1,4 +1,17 @@
 # Europe
+## European parties
+- www.epp.eu
+- www.pes.eu
+- www.aldeparty.eu
+- www.democrats.eu
+- www.europeangreens.eu
+- www.e-f-a.org
+- www.acreurope.eu
+- www.ecpm.info
+- www.european-left.org
+- www.eudemocrats.org
+- ADDE
+- www.menleuropa.eu
 ## The Netherlands
 - www.50pluspartij.nl
 - www.bewegingdenk.nl
