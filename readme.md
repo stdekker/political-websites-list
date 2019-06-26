@@ -66,3 +66,43 @@
 
 # Movements
 www.diem25.org
+
+# United States
+## Democratic Party
+- www.democrats.org
+### Candidates
+- www.michaelbennet.com
+- www.joebiden.com
+- www.corybooker.com
+- www.stevebullock.com
+- www.peteforamerica.com
+- www.corybooker.com
+- www.stevebullock.com
+- www.peteforamerica.com
+- www.julianforthefuture.com
+- www.billdeblasio.com
+- www.johndelaney.com
+- www.tulsi2020.com
+- www.kirstengillibrand.com
+- www.mikegravel.org
+- www.kamalaharris.org
+- www.hickenlooper.com
+- www.jayinslee.com
+- www.amyklobuchar.com
+- Wayne Messam
+- www.sethmoulton.com
+- www.betoorourke.com
+- www.timryanforamerica.com
+- www.berniesanders.com
+- Joe Sestak
+- www.ericswalwell.com
+- www.elizabethwarren.com
+- www.marianne.com
+- www.yang2020.com
+
+
+
+## Republican Party
+- www.gop.gov
+### Candidates
+- www.donaldjtrump.com
