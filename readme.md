@@ -12,7 +12,7 @@
 - www.ecpm.info
 - www.european-left.org
 - www.eudemocrats.org
-- ADDE
+- www.addeurope.org
 - www.menleuropa.eu
 
 ## The Netherlands
@@ -119,12 +119,12 @@ www.diem25.org
 - www.hickenlooper.com
 - www.jayinslee.com
 - www.amyklobuchar.com
-- Wayne Messam
+- www.wayneforusa.com
 - www.sethmoulton.com
 - www.betoorourke.com
 - www.timryanforamerica.com
 - www.berniesanders.com
-- Joe Sestak
+- www.joesestak.com
 - www.ericswalwell.com
 - www.elizabethwarren.com
 - www.marianne.com
