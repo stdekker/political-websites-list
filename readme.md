@@ -1,5 +1,7 @@
 # Europe
+
 ## The Netherlands
+
 - www.50pluspartij.nl
 - www.bewegingdenk.nl
 - www.cda.nl
@@ -13,7 +15,9 @@
 - www.sgp.nl
 - www.sp.nl
 - www.vvd.nl
+
 ## Belgium
+
 - ostbelgien.sp-dg.be
 - www.cdenv.be
 - www.csp-dg.be
@@ -33,7 +37,9 @@
 - www.uniondesfrancophones.be
 - www.vivant.org
 - www.vlaamsbelang.org
+
 ## Britain
+
 - www.conservatives.com
 - www.greenparty.org.uk
 - www.labour.org.uk
@@ -44,7 +50,9 @@
 - www.sinnfein.ie
 - www.snp.org
 - www.thebrexitparty.org
+
 ## Germany
+
 - www.afd.de
 - www.cdu.de
 - www.csu.de
@@ -56,7 +64,9 @@
 - www.oedp.de
 - www.piratenpartei.de
 - www.spd.de
+
 ## France
+
 - www.en-marche.fr
 - www.lafranceinsoumise.fr
 - www.parti-socialiste.fr
