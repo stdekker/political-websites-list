@@ -2,18 +2,19 @@
 
 ## European parties
 
-- www.epp.eu
-- www.pes.eu
+- www.acreurope.eu
+- www.addeurope.org
 - www.aldeparty.eu
 - www.democrats.eu
-- www.europeangreens.eu
 - www.e-f-a.org
-- www.acreurope.eu
 - www.ecpm.info
-- www.european-left.org
+- www.epp.eu
 - www.eudemocrats.org
-- www.addeurope.org
+- www.european-left.org
+- www.europeangreens.eu
+- www.guengl.eu
 - www.menleuropa.eu
+- www.pes.eu
 
 ## The Netherlands
 
