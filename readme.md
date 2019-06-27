@@ -1,4 +1,17 @@
 # Europe
+## European parties
+- www.epp.eu
+- www.pes.eu
+- www.aldeparty.eu
+- www.democrats.eu
+- www.europeangreens.eu
+- www.e-f-a.org
+- www.acreurope.eu
+- www.ecpm.info
+- www.european-left.org
+- www.eudemocrats.org
+- ADDE
+- www.menleuropa.eu
 ## The Netherlands
 - www.50pluspartij.nl
 - www.bewegingdenk.nl
@@ -66,3 +79,43 @@
 
 # Movements
 www.diem25.org
+
+# United States
+## Democratic Party
+- www.democrats.org
+### Candidates
+- www.michaelbennet.com
+- www.joebiden.com
+- www.corybooker.com
+- www.stevebullock.com
+- www.peteforamerica.com
+- www.corybooker.com
+- www.stevebullock.com
+- www.peteforamerica.com
+- www.julianforthefuture.com
+- www.billdeblasio.com
+- www.johndelaney.com
+- www.tulsi2020.com
+- www.kirstengillibrand.com
+- www.mikegravel.org
+- www.kamalaharris.org
+- www.hickenlooper.com
+- www.jayinslee.com
+- www.amyklobuchar.com
+- Wayne Messam
+- www.sethmoulton.com
+- www.betoorourke.com
+- www.timryanforamerica.com
+- www.berniesanders.com
+- Joe Sestak
+- www.ericswalwell.com
+- www.elizabethwarren.com
+- www.marianne.com
+- www.yang2020.com
+
+
+
+## Republican Party
+- www.gop.gov
+### Candidates
+- www.donaldjtrump.com
