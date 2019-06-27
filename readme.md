@@ -1,5 +1,7 @@
 # Europe
+
 ## European parties
+
 - www.epp.eu
 - www.pes.eu
 - www.aldeparty.eu
@@ -12,7 +14,9 @@
 - www.eudemocrats.org
 - ADDE
 - www.menleuropa.eu
+
 ## The Netherlands
+
 - www.50pluspartij.nl
 - www.bewegingdenk.nl
 - www.cda.nl
@@ -26,7 +30,9 @@
 - www.sgp.nl
 - www.sp.nl
 - www.vvd.nl
+
 ## Belgium
+
 - ostbelgien.sp-dg.be
 - www.cdenv.be
 - www.csp-dg.be
@@ -46,7 +52,9 @@
 - www.uniondesfrancophones.be
 - www.vivant.org
 - www.vlaamsbelang.org
+
 ## Britain
+
 - www.conservatives.com
 - www.greenparty.org.uk
 - www.labour.org.uk
@@ -57,7 +65,9 @@
 - www.sinnfein.ie
 - www.snp.org
 - www.thebrexitparty.org
+
 ## Germany
+
 - www.afd.de
 - www.cdu.de
 - www.csu.de
@@ -69,7 +79,9 @@
 - www.oedp.de
 - www.piratenpartei.de
 - www.spd.de
+
 ## France
+
 - www.en-marche.fr
 - www.lafranceinsoumise.fr
 - www.parti-socialiste.fr
@@ -78,12 +90,17 @@
 - www.republicains.fr
 
 # Movements
+
 www.diem25.org
 
 # United States
+
 ## Democratic Party
+
 - www.democrats.org
+
 ### Candidates
+
 - www.michaelbennet.com
 - www.joebiden.com
 - www.corybooker.com
@@ -113,9 +130,10 @@ www.diem25.org
 - www.marianne.com
 - www.yang2020.com
 
-
-
 ## Republican Party
+
 - www.gop.gov
+
 ### Candidates
+
 - www.donaldjtrump.com
