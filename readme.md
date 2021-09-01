@@ -18,6 +18,7 @@
 ## The Netherlands
 
 - www.50pluspartij.nl
+- www.bij1.org
 - www.bewegingdenk.nl
 - www.cda.nl
 - www.christenunie.nl
