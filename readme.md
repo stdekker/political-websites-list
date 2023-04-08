@@ -2,7 +2,6 @@
 
 ## European parties
 
-- www.acreurope.eu
 - www.aldeparty.eu
 - www.democrats.eu
 - www.e-f-a.org
